@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repository contains the source code and materials for *Automation Bias in AI-Assisted Medical Decision-Making Under Time Pressure in Computational Pathology*. We quantified automation bias in the form of negative consultations, where a correct initial assessment was overturned by incorrect AI guidance, and examined the impact of time constraints in a web-based experiment. In this study, trained pathology experts (n=28) estimated tumor cell percentages. For a visual overview of the study setup, see the teaser image below:
-<img src="paperFigures/teaser.png" width="800px" align="center"/>
+This repository contains the source code and materials for *Automation Bias in AI-Assisted Medical Decision-Making Under Time Pressure in Computational Pathology*. We quantified automation bias in the form of negative consultations, where a correct initial assessment was overturned by incorrect AI guidance, and examined the impact of time constraints in a web-based experiment. In this study, trained pathology experts (n=28) estimated tumor cell percentages.
 
 ## Contents
 
