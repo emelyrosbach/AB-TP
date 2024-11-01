@@ -8,7 +8,7 @@ This repository contains the source code and materials for *Automation Bias in A
 ## Contents
 
 - **ExperimentApplication**: The `ExperimentApplication/` directory contains the Django project source code for the experiment interface, where participants rated tumor cell percentages. The `static/` subdirectory includes study materials, such as image patches from different H&E-stained tissue slides (licensed under Creative Commons) and a table with additional information on these study images.
-- **DataAnalysis**: The `DataAnalysis/` directory includes the code to assess data normality, perform parametric tests, and generate descriptive statistics reported in the paper.
+- **DataAnalysis**: The `DataAnalysis/` directory includes the source code to assess data normality and generate the descriptive statistics reported in the paper. Additionally, it contains an Excel file with all anonymized study data, including results from the parametric tests referenced in the paper. A PDF summarizing participant demographic data is also included.
 
 ## Running the Online Experiment Interface
 
